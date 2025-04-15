@@ -34,7 +34,7 @@ A powerful hand gesture control system that lets you navigate between applicatio
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Abhinav-gh/Gesture_Based_Controller?tab=readme-ov-file
+git clone https://github.com/Abhinav-gh/Gesture_Based_Controller
 cd Gesture_Based_Controller
 ```
 
