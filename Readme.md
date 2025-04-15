@@ -34,18 +34,18 @@ A powerful hand gesture control system that lets you navigate between applicatio
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Abhinav-gh/gesture-swiper-engine.git
-cd gesture-swiper-engine
+git clone https://github.com/Abhinav-gh/Gesture_Based_Controller?tab=readme-ov-file
+cd Gesture_Based_Controller
 ```
 
 2. Install the required dependencies:
 ```bash
-pip install opencv-python mediapipe pyautogui pyyaml numpy
+pip install requirements.txt
 ```
 
 3. Run the application:
 ```bash
-python gesture_swiper.py
+python Gesture_Based_Controller.py
 ```
 
 ## 🎮 Gesture Controls
@@ -54,8 +54,8 @@ python gesture_swiper.py
 
 | Gesture | Description | Action |
 |---------|-------------|--------|
-| 3 Fingers Up (index, middle, ring) | Alt+Tab mode (forward) | Press and hold Alt, cycle with Tab |
-| 4 Fingers Up (index, middle, ring, pinky) | Alt+Tab mode (backward) | Press and hold Alt, cycle with Shift+Tab |
+| 3 Fingers Up (index, middle, thumb) | Alt+Tab mode (forward) | Press and hold Alt, cycle with Tab |
+| 4 Fingers Up (index, middle, ring, thumb) | Alt+Tab mode (backward) | Press and hold Alt, cycle with Shift+Tab |
 | Change to any other gesture | Release Alt | Release the Alt key |
 
 ### Right Hand Controls (Browser Tab Navigation)
