@@ -1,0 +1,8 @@
+debug_mode: false
+detection_confidence: 0.8
+gesture_delay: 1.0
+max_vertical_ratio: 0.4
+min_swipe_distance: 0.09
+min_swipe_velocity: 0.4
+swipe_cooldown: 1
+tracking_confidence: 0.8
